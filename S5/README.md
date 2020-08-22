@@ -1,4 +1,4 @@
-# EVA5 Assignment 4 - SESSION 4 - ARCHITECTURAL BASICS
+# EVA5 Assignment 5 - SESSION 5 - Coding Drill
 Our Goal is to Achieve 99.4% accuracy with,
 1. Less than 10k Parameters
 2. Less than 15 Epochs
